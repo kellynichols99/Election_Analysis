@@ -45,7 +45,7 @@ A Colorado Board of Elections employeehad given us the following tasks to complt
 - Winning Vote Count: 272,892
 - Winning Percentage: 73.8%
 
-<img src"
+<img src="https://github.com/kellynichols99/Election_Analysis/blob/main/Resources/Election%20Result.png">
 
 <h1>Challange Summary</h1>
 
